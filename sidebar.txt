@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[luy:home|Door43 (luy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-luy|d43-luy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-luy/archive/master.zip|d43-luy.zip]]
+
+**Recent Changes**
+{{changes>ns = luy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/luy|Ethnologue data]]
+
